@@ -1,4 +1,4 @@
-# Importation des bibliothèques
+# Importation des bibliothèques python
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.compose import ColumnTransformer
